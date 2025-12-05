@@ -1,0 +1,5 @@
+{
+  "name": "SciParse",
+  "description": "A professional PDF parsing tool for scientific papers using Gemini models to extract markdown, figures, and convert chemical structures to SMILES.",
+  "requestFramePermissions": []
+}
